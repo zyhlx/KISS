@@ -31,3 +31,8 @@ Previews
 
 |![Minimalistic interface](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Search for anything](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Customize everything](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![60+ settings](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
 |:-------------------:|:------------------------:|:-----------------:|:-----------------:|
+
+
+一个简单快速轻量级的launcher应用. 可以从中学习一些比较酷的features.
+
+项目很小很简单.
